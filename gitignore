@@ -1,0 +1,8 @@
+# Compiled program files
+calculator
+calculator.exe
+*.o
+
+# IDE/editor files
+.vscode/
+.idea/
